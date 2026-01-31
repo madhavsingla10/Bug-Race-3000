@@ -2,8 +2,7 @@
 A race to catch the bugs before the 40 mins timer ends.
 
 WELCOME TO THE RACE. 
-### THE GAME HAS BEEN CRAFTED CONFUSING BY ME. 
-### THE BUGS HAVE BEEN PLACED DIRECTLY OVER THE VISIBLE REGION BUT REACHING THEM HAS BEEN MADE HARD BY ME.
+### The game has been crafted confusing by me.The bugs have been placed directly over the visible region but reaching them is relatively hard.
 ### THE RACE HAS 2 ERRORS.FIND THEM.FIX THEM.AND BOOM YOU WON....
 
 ### BUG 1:
