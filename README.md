@@ -9,6 +9,6 @@ WELCOME TO THE RACE.
 ### BUG 2:
 #### Hint : Reach the end.
 ### BUG 3:
-#### Hint : Majorly at the end screen. check buttons.
+#### Hint : Check the end screen with caution.
 
 
