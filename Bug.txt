@@ -2,12 +2,13 @@ THE RACE HAS 4 ERRORS. FIND THEM. FIX THEM.
 BUG 1: When the site is opened by the user a sound set at autoplay plays on user's device, the user has to detect it.
 Describing the audio : Its style.wav, I have worked on audio and its a low gain, continous looped fan sound that merges with your computer fan beening undetected, and can be found in code.
 
-BUG 2: At the last end screen, since the whole game is a trap for the user and its his strength he has to indetify the hit himself - "Bug Race 3000" mentioned in front of eyes. Even I have build 404 error pages so user might stop it as a bug making it hard and reducing his score.
+BUG 2: At the last end screen, since the whole game is a trap for the user and its his strength he has to indetify the hint himself - "Bug Race 3000" mentioned in front of eyes. Even I have build 404 error pages so user might stop it as a bug making it hard and reducing his score.
+Notice : Error 404 pages are not bugs.
 
 Via this when he reachs the screen that says 0/2 attempts left. Now if he will try that to click over the button, and that button still works and unlocks the bug window.
 
 This window have the title set at wrong font size. This is the bug.
 
-BUG 3: The replay button on the unlocked bug screen is redirecting to the wrong page.
+BUG 3: The retry button on the unlocked bug screen is redirecting to the wrong page.
 
 BUG 4: Might the user forget to notice but its easy. The button after 0/2 attempts still works..
